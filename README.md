@@ -1,3 +1,3 @@
 # kossel-rostock
-kossel rostock hybrid
+Hybrid Kossel with rostock
 
